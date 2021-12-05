@@ -1170,3 +1170,6 @@ java.lang.RuntimeException: Did not expect to find item below node: Assign[targe
 	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:160)
 	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:251)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.python.pydev.shared_core 4 4 2021-12-05 14:55:34.578
+!MESSAGE Info: Rebuilding internal caches: C:\Users\ITAUser\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\survey\com.python.pydev.analysis\AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
