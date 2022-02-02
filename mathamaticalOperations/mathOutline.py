@@ -57,6 +57,6 @@ k=2**2
 print(k)
 
 #12) Make any type of operation with a common SYNTAX error
- l= 2**2
- print(m)
+l= 2**2
+print(m)
 
