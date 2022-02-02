@@ -19,4 +19,4 @@ name= input("what is your name?")
 #(integer) variable.
 
 
-age= int(inpur("what is your age?"))
+age= int(input("what is your age?"))
